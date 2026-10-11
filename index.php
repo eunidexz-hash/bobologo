@@ -1,1 +1,0 @@
-<?php echo "<!DOCTYPE html><html><head><meta charset=\"UTF-8\"><title>bobologo</title><style>*{margin:0;padding:0}body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f0f0f}h1{font-size:clamp(3rem,12vw,8rem);font-weight:900;color:#fff;font-family:sans-serif}</style></head><body><h1>bobologo</h1></body></html>"; ?>
